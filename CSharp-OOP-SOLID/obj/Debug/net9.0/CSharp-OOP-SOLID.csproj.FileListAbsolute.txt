@@ -1,0 +1,14 @@
+C:\Projects\CSharp-OOP-SOLID\CSharp-OOP-SOLID\bin\Debug\net9.0\CSharp-OOP-SOLID.exe
+C:\Projects\CSharp-OOP-SOLID\CSharp-OOP-SOLID\bin\Debug\net9.0\CSharp-OOP-SOLID.deps.json
+C:\Projects\CSharp-OOP-SOLID\CSharp-OOP-SOLID\bin\Debug\net9.0\CSharp-OOP-SOLID.runtimeconfig.json
+C:\Projects\CSharp-OOP-SOLID\CSharp-OOP-SOLID\bin\Debug\net9.0\CSharp-OOP-SOLID.dll
+C:\Projects\CSharp-OOP-SOLID\CSharp-OOP-SOLID\bin\Debug\net9.0\CSharp-OOP-SOLID.pdb
+C:\Projects\CSharp-OOP-SOLID\CSharp-OOP-SOLID\obj\Debug\net9.0\CSharp-OOP-SOLID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CSharp-OOP-SOLID\CSharp-OOP-SOLID\obj\Debug\net9.0\CSharp-OOP-SOLID.AssemblyInfoInputs.cache
+C:\Projects\CSharp-OOP-SOLID\CSharp-OOP-SOLID\obj\Debug\net9.0\CSharp-OOP-SOLID.AssemblyInfo.cs
+C:\Projects\CSharp-OOP-SOLID\CSharp-OOP-SOLID\obj\Debug\net9.0\CSharp-OOP-SOLID.csproj.CoreCompileInputs.cache
+C:\Projects\CSharp-OOP-SOLID\CSharp-OOP-SOLID\obj\Debug\net9.0\CSharp-OOP-SOLID.dll
+C:\Projects\CSharp-OOP-SOLID\CSharp-OOP-SOLID\obj\Debug\net9.0\refint\CSharp-OOP-SOLID.dll
+C:\Projects\CSharp-OOP-SOLID\CSharp-OOP-SOLID\obj\Debug\net9.0\CSharp-OOP-SOLID.pdb
+C:\Projects\CSharp-OOP-SOLID\CSharp-OOP-SOLID\obj\Debug\net9.0\CSharp-OOP-SOLID.genruntimeconfig.cache
+C:\Projects\CSharp-OOP-SOLID\CSharp-OOP-SOLID\obj\Debug\net9.0\ref\CSharp-OOP-SOLID.dll
