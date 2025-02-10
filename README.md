@@ -1,6 +1,6 @@
 # 🏆 C# OOP - SOLID Principles Mastery 🚀
 
-A **professional-grade C# project** demonstrating **Object-Oriented Programming (OOP)** and **SOLID principles**.
+A **C# project** demonstrating **Object-Oriented Programming (OOP)** and **SOLID principles**.
 
 ## 📌 Features
 - **Encapsulation, Inheritance, Polymorphism, Abstraction**
@@ -16,10 +16,10 @@ cd CSharp-OOP-SOLID
 dotnet build
 dotnet run
 
-🛠 Technologies Used
+## 🛠 Technologies Used
 
-    C# (.NET 9)
-    xUnit for Unit Testing
-    Factory & Strategy Patterns
-    Dependency Injection
-    VS Code & GitHub
+- **C# (.NET 9)**
+- **xUnit for Unit Testing**
+- **Factory & Strategy Patterns**
+- **Dependency Injection**
+- **VS Code & GitHub**
